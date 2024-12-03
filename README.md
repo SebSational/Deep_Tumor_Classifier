@@ -1,6 +1,6 @@
 Título: Clasificación de tumores cerebrales a partir de imágenes de resonancia magnética (MRI)
 
-![New Project](https://github.com/user-attachments/assets/90a1f903-e61c-4b15-a664-1d148f500d9c)
+![New Project (1)](https://github.com/user-attachments/assets/d580b58d-e5c1-409f-8ba6-afe0bbcfa9f2)
 
 Autores: Luis Sebastián Mora Cañas & Estefanía Osma Llanes
 
