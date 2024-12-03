@@ -14,6 +14,6 @@ Enlances:
 
  -Repo: https://github.com/EstefaniaOsmaLlanes/CLASIFICACI-N-DE-TUMORES-CEREBRALES-A-PARTIR-DE-IMAGENES-DE-RESONANCIA-MAGNETICA_IA2 
 
- -Código: https://colab.research.google.com/drive/1xKR1iYh8s1WmEe_rSuhPFunbV1NAGz_K?authuser=2#scrollTo=pBSlKOWim5KC 
+ -Código: https://github.com/EstefaniaOsmaLlanes/CLASIFICACI-N-DE-TUMORES-CEREBRALES-A-PARTIR-DE-IMAGENES-DE-RESONANCIA-MAGNETICA_IA2/blob/main/BASE_PROYECTO.ipynb
 
 -Diapositivas: https://www.canva.com/design/DAGWTdeRQBs/pTYsnsVzCtciLq9s7Y4gXg/edit
