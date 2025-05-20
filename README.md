@@ -19,3 +19,5 @@ Enlances:
 -Diapositivas: https://www.canva.com/design/DAGWTdeRQBs/pTYsnsVzCtciLq9s7Y4gXg/edit
 
 -Video: https://youtu.be/tskvBISKJDQ
+
+Herramientas utilizadas: numpy, pandas, matplotlib, tensorflow
